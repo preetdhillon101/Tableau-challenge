@@ -15,7 +15,7 @@ As the new lead analyst for the New York Citi Bike Links to an external site. pr
 Monthly CSV file were collected from Citi Bike Data webpage.
 
 **Visualizations:**
-https://public.tableau.com/app/profile/pawanpreet.dhillon/viz/NYCitiBike_17145833769090/Dashboard3?publish=yes
+https://public.tableau.com/app/profile/pawanpreet.dhillon/viz/NYCitiBike_17145833769090/Story1?publish=yes
 
 
 **Analysis**
