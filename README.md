@@ -4,9 +4,7 @@
 # **Project Description: Data Visualization of Citi Bike Analytics**
 
 
-![Citibikes NYC](path/to/Citibikes-NYC-916126092.jpg.webp)
-
-
+![Example Image](images/Citibikes-NYC-916126092.jpg.webp)
 
 **Overview:**
 As the new lead analyst for the New York Citi Bike Links to an external site. program, you are now responsible for overseeing the largest bike-sharing program in the United States. In your new role, you will be expected to generate regular reports for city officials looking to publicize and improve the city program.
