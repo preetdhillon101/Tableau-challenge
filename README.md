@@ -20,7 +20,7 @@ https://public.tableau.com/app/profile/pawanpreet.dhillon/viz/NYCitiBike_1714583
 --------------------------------------------------
 **Busiest Times and Days**
 The cumulative records surpassed 65,000, indicating a strong preference for both electric and traditional bicycles. Analysis suggests that the period around mid-March 2024 experienced the highest rider activity. A heatmap illustrates that bike usage peaked during the beginning and ending of typical office hours, 9 am to 5 pm. Specifically, the hours between 7 am to 9 am and 5 pm to 7 pm witnessed the highest frequency of rides from Mondays to Fridays. Sundays exhibited a distinct pattern, with sustained activity observed from 10 am to 6 pm. Saturdays emerged as the least active day in comparison.
-![Heatmap](images/heatmap)
+![Heatmap](images/heatmap.png)
 ----------------------------------
 
 **Popular Station**
