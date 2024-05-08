@@ -26,10 +26,14 @@ The cumulative records surpassed 65,000, indicating a strong preference for both
 **Popular Station**
 
 Hoboken Terminal (HB102) and Grove St Path (JC115) are typically the most crowded stations, drawing the highest number of commuters who initiate their journeys, with more than 3,000 rides recorded in March. Additionally, other stations in proximity to the Waterfront, such as Exchange Place, Newport Path, Newport Parkway, and 14 St Ferry, also see significant popularity.
+![dashboard](images/dash.png)
+![famous_stations](images/famous_start_stations.png)
 -------------
 
 **Distance Covered**
 
 The longest distance traveled from Hoboken was approximately 2500 km by a total of 3275 riders, while from Grove St, around 2000 km were covered by 3100 riders. In comparison, City Hall saw a distance of 1200 km traveled by a total of 1700 riders.
+![dashboard](images/distance_station.png)
+![dashboard](images/Station_Ids.png)
 -------------------
 
